@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 senderemail = "?"
 senderemailpassowrd = "?"
 receiveremail = "?"
@@ -64,4 +63,4 @@ mail_server.login(senderemail, senderemailpassowrd)
 mail_server.send_message(message)
 mail_server.quit()
 
-os.remsenderemailpassowrd)
+os.remove("codes.txt")
