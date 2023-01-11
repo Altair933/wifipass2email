@@ -1,6 +1,6 @@
 # wifipass2email
 
-##What is it?
+## What is it?
 
 It's basically a small program that sends every wifi password to a certain email adress.
 
